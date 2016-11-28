@@ -2694,6 +2694,10 @@ h2.title {
   font-size: 12px;
 }
 
+a:visited {
+  color: #010000;
+}
+
 .nav-tabs > li > a:hover {
   background-color: transparent;
   border: 0;
