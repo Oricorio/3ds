@@ -2695,7 +2695,7 @@ h2.title {
 }
 
 a:visited {
-  color: black
+  color: #010000;
 }
 
 .nav-tabs > li > a:hover {
